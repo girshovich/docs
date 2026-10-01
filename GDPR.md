@@ -8,7 +8,7 @@ I want to understand why the company I applied to rejected my application, for t
 
 Response should be in the format of email ready to be sent or copy-pasted:
 
-Recipients: recipient email or form link you found
+Recipient email:  most fitting email you found
 
 Subject: GDPR Article 15 access request: role_name
 
@@ -36,4 +36,4 @@ If any requested category is withheld, please identify the category and legal ba
 
 Kind regards,
 
-Mikhail Girshovich
+Name (use my actual full name if you already know it from our conversation or memory - else don't write anything as a name at all, especially don't use placeholders)
